@@ -1,2 +1,3 @@
-# PetShop
-Self made Pet Shop 
+# DjangoPetShopSystem
+
+My First Django Fully Functional pet online Website.
